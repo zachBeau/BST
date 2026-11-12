@@ -1,0 +1,503 @@
+
+
+Size: 1000| BST Time: 0.00051 | Binary Search Time: 0.03988
+Size: 2000| BST Time: 0.00028 | Binary Search Time: 0.03203
+Size: 3000| BST Time: 0.0004 | Binary Search Time: 0.03367
+Size: 4000| BST Time: 0.00104 | Binary Search Time: 0.04814
+Size: 5000| BST Time: 0.00077 | Binary Search Time: 0.05608
+Size: 6000| BST Time: 0.0006 | Binary Search Time: 0.02804
+Size: 7000| BST Time: 0.00086 | Binary Search Time: 0.0331
+Size: 8000| BST Time: 0.0007 | Binary Search Time: 0.04847
+Size: 9000| BST Time: 0.00066 | Binary Search Time: 0.04806
+Size: 10000| BST Time: 0.00075 | Binary Search Time: 0.03992
+--- Added: 2026-11-11 23:29:22 ---
+
+
+Size: 1000| BST Time: 0.00057 | Binary Search Time: 0.04732
+Size: 2000| BST Time: 0.00045 | Binary Search Time: 0.03635
+Size: 3000| BST Time: 0.00051 | Binary Search Time: 0.033
+Size: 4000| BST Time: 0.00035 | Binary Search Time: 0.0615
+Size: 5000| BST Time: 0.00074 | Binary Search Time: 0.04959
+Size: 6000| BST Time: 0.00051 | Binary Search Time: 0.03225
+Size: 7000| BST Time: 0.00091 | Binary Search Time: 0.0507
+Size: 8000| BST Time: 0.00051 | Binary Search Time: 0.07841
+Size: 9000| BST Time: 0.00096 | Binary Search Time: 0.03799
+Size: 10000| BST Time: 0.0008 | Binary Search Time: 0.0403
+Size: 11000| BST Time: 0.00061 | Binary Search Time: 0.0466
+Size: 12000| BST Time: 0.00083 | Binary Search Time: 0.09607
+Size: 13000| BST Time: 0.00064 | Binary Search Time: 0.03161
+Size: 14000| BST Time: 0.00091 | Binary Search Time: 0.0929
+Size: 15000| BST Time: 0.00074 | Binary Search Time: 0.08585
+Size: 16000| BST Time: 0.00064 | Binary Search Time: 0.09139
+Size: 17000| BST Time: 0.00069 | Binary Search Time: 0.09335
+Size: 18000| BST Time: 0.00074 | Binary Search Time: 0.09988
+Size: 19000| BST Time: 0.00071 | Binary Search Time: 0.10789
+Size: 20000| BST Time: 0.00092 | Binary Search Time: 0.09884
+Size: 21000| BST Time: 0.00101 | Binary Search Time: 0.10704
+Size: 22000| BST Time: 0.00158 | Binary Search Time: 0.14888
+Size: 23000| BST Time: 0.00097 | Binary Search Time: 0.13318
+Size: 24000| BST Time: 0.00134 | Binary Search Time: 0.10502
+Size: 25000| BST Time: 0.00091 | Binary Search Time: 0.16659
+Size: 26000| BST Time: 0.00091 | Binary Search Time: 0.06486
+Size: 27000| BST Time: 0.00096 | Binary Search Time: 0.05207
+Size: 28000| BST Time: 0.00069 | Binary Search Time: 0.07221
+Size: 29000| BST Time: 0.00146 | Binary Search Time: 0.07764
+Size: 30000| BST Time: 0.00112 | Binary Search Time: 0.09593
+Size: 31000| BST Time: 0.00108 | Binary Search Time: 0.07604
+Size: 32000| BST Time: 0.00152 | Binary Search Time: 0.09228
+Size: 33000| BST Time: 0.00048 | Binary Search Time: 0.07132
+Size: 34000| BST Time: 0.00137 | Binary Search Time: 0.08045
+Size: 35000| BST Time: 0.00089 | Binary Search Time: 0.05449
+Size: 36000| BST Time: 0.00164 | Binary Search Time: 0.10025
+Size: 37000| BST Time: 0.00113 | Binary Search Time: 0.05228
+Size: 38000| BST Time: 0.00096 | Binary Search Time: 0.06743
+Size: 39000| BST Time: 0.00097 | Binary Search Time: 0.0525
+Size: 40000| BST Time: 0.00089 | Binary Search Time: 0.06739
+Size: 41000| BST Time: 0.00078 | Binary Search Time: 0.05917
+Size: 42000| BST Time: 0.001 | Binary Search Time: 0.10549
+Size: 43000| BST Time: 0.00152 | Binary Search Time: 0.07313
+Size: 44000| BST Time: 0.00107 | Binary Search Time: 0.05688
+Size: 45000| BST Time: 0.00138 | Binary Search Time: 0.10009
+Size: 46000| BST Time: 0.0025 | Binary Search Time: 0.08405
+Size: 47000| BST Time: 0.00189 | Binary Search Time: 0.09186
+Size: 48000| BST Time: 0.00084 | Binary Search Time: 0.07714
+Size: 49000| BST Time: 0.00133 | Binary Search Time: 0.07475
+Size: 50000| BST Time: 0.00087 | Binary Search Time: 0.07002
+Size: 51000| BST Time: 0.00162 | Binary Search Time: 0.07835
+Size: 52000| BST Time: 0.00098 | Binary Search Time: 0.07925
+Size: 53000| BST Time: 0.00097 | Binary Search Time: 0.07088
+Size: 54000| BST Time: 0.00128 | Binary Search Time: 0.07246
+Size: 55000| BST Time: 0.00096 | Binary Search Time: 0.07571
+Size: 56000| BST Time: 0.00182 | Binary Search Time: 0.07677
+Size: 57000| BST Time: 0.00203 | Binary Search Time: 0.11952
+Size: 58000| BST Time: 0.00068 | Binary Search Time: 0.05043
+Size: 59000| BST Time: 0.00116 | Binary Search Time: 0.14142
+Size: 60000| BST Time: 0.00113 | Binary Search Time: 0.23457
+Size: 61000| BST Time: 0.00146 | Binary Search Time: 0.19168
+Size: 62000| BST Time: 0.00075 | Binary Search Time: 0.29059
+Size: 63000| BST Time: 0.00136 | Binary Search Time: 0.1801
+Size: 64000| BST Time: 0.00179 | Binary Search Time: 0.12602
+Size: 65000| BST Time: 0.00138 | Binary Search Time: 0.14142
+Size: 1000| BST Time: 0.00058 | Binary Search Time: 0.04094
+Size: 2000| BST Time: 0.00043 | Binary Search Time: 0.02971
+Size: 3000| BST Time: 0.00041 | Binary Search Time: 0.03501
+Size: 4000| BST Time: 0.00071 | Binary Search Time: 0.02805
+Size: 5000| BST Time: 0.00067 | Binary Search Time: 0.06179
+Size: 6000| BST Time: 0.00038 | Binary Search Time: 0.03245
+Size: 7000| BST Time: 0.00056 | Binary Search Time: 0.02752
+Size: 8000| BST Time: 0.00072 | Binary Search Time: 0.0367
+Size: 9000| BST Time: 0.00074 | Binary Search Time: 0.02708
+Size: 10000| BST Time: 0.00071 | Binary Search Time: 0.10359
+Size: 11000| BST Time: 0.00087 | Binary Search Time: 0.05569
+Size: 12000| BST Time: 0.00092 | Binary Search Time: 0.05516
+Size: 13000| BST Time: 0.00085 | Binary Search Time: 0.03513
+Size: 14000| BST Time: 0.0005 | Binary Search Time: 0.04373
+Size: 15000| BST Time: 0.0008 | Binary Search Time: 0.04692
+Size: 16000| BST Time: 0.0006 | Binary Search Time: 0.05015
+Size: 17000| BST Time: 0.00071 | Binary Search Time: 0.04388
+Size: 18000| BST Time: 0.00094 | Binary Search Time: 0.0489
+Size: 19000| BST Time: 0.00108 | Binary Search Time: 0.07639
+Size: 20000| BST Time: 0.00135 | Binary Search Time: 0.17104
+Size: 21000| BST Time: 0.00088 | Binary Search Time: 0.15509
+Size: 22000| BST Time: 0.00121 | Binary Search Time: 0.12114
+Size: 23000| BST Time: 0.00118 | Binary Search Time: 0.07049
+Size: 24000| BST Time: 0.00089 | Binary Search Time: 0.06029
+Size: 25000| BST Time: 0.00071 | Binary Search Time: 0.06085
+--- Added: 2026-11-11 23:33:39 ---
+
+
+Size: 1000| BST Time: 0.00047 | Binary Search Time: 0.04659
+Size: 2000| BST Time: 0.00027 | Binary Search Time: 0.03568
+Size: 3000| BST Time: 0.0004 | Binary Search Time: 0.03748
+Size: 4000| BST Time: 0.00083 | Binary Search Time: 0.06277
+Size: 5000| BST Time: 0.00089 | Binary Search Time: 0.05581
+Size: 6000| BST Time: 0.00058 | Binary Search Time: 0.02773
+Size: 7000| BST Time: 0.00037 | Binary Search Time: 0.03119
+Size: 8000| BST Time: 0.00123 | Binary Search Time: 0.06954
+Size: 9000| BST Time: 0.00079 | Binary Search Time: 0.05212
+Size: 10000| BST Time: 0.00161 | Binary Search Time: 0.09263
+Size: 11000| BST Time: 0.00084 | Binary Search Time: 0.0488
+Size: 12000| BST Time: 0.001 | Binary Search Time: 0.03989
+Size: 13000| BST Time: 0.00087 | Binary Search Time: 0.05413
+Size: 14000| BST Time: 0.00068 | Binary Search Time: 0.0331
+Size: 15000| BST Time: 0.00086 | Binary Search Time: 0.05825
+Size: 16000| BST Time: 0.00056 | Binary Search Time: 0.03292
+Size: 17000| BST Time: 0.00102 | Binary Search Time: 0.071
+Size: 18000| BST Time: 0.00249 | Binary Search Time: 0.04682
+Size: 19000| BST Time: 0.00088 | Binary Search Time: 0.05645
+Size: 20000| BST Time: 0.00051 | Binary Search Time: 0.04301
+Size: 21000| BST Time: 0.00143 | Binary Search Time: 0.07735
+Size: 22000| BST Time: 0.00151 | Binary Search Time: 0.04695
+Size: 23000| BST Time: 0.00279 | Binary Search Time: 0.10145
+Size: 24000| BST Time: 0.00091 | Binary Search Time: 0.04604
+Size: 25000| BST Time: 0.00133 | Binary Search Time: 0.06138
+--- Added: 2026-11-11 23:34:03 ---
+
+
+Size: 1000| BST Time: 0.00068 | Binary Search Time: 0.00235
+Size: 2000| BST Time: 0.00054 | Binary Search Time: 0.00296
+Size: 3000| BST Time: 0.00057 | Binary Search Time: 0.00213
+Size: 4000| BST Time: 0.00079 | Binary Search Time: 0.00635
+Size: 5000| BST Time: 0.00084 | Binary Search Time: 0.00638
+Size: 6000| BST Time: 0.00048 | Binary Search Time: 0.00679
+Size: 7000| BST Time: 0.00143 | Binary Search Time: 0.00938
+Size: 8000| BST Time: 0.00088 | Binary Search Time: 0.0084
+Size: 9000| BST Time: 0.00091 | Binary Search Time: 0.00609
+Size: 10000| BST Time: 0.00044 | Binary Search Time: 0.00389
+Size: 11000| BST Time: 0.0009 | Binary Search Time: 0.00937
+Size: 12000| BST Time: 0.00106 | Binary Search Time: 0.00831
+Size: 13000| BST Time: 0.00086 | Binary Search Time: 0.00992
+Size: 14000| BST Time: 0.00095 | Binary Search Time: 0.01142
+Size: 15000| BST Time: 0.00093 | Binary Search Time: 0.01184
+Size: 16000| BST Time: 0.0008 | Binary Search Time: 0.01283
+Size: 17000| BST Time: 0.00096 | Binary Search Time: 0.01549
+Size: 18000| BST Time: 0.00157 | Binary Search Time: 0.01571
+Size: 19000| BST Time: 0.00078 | Binary Search Time: 0.01168
+Size: 20000| BST Time: 0.00103 | Binary Search Time: 0.01255
+Size: 21000| BST Time: 0.0008 | Binary Search Time: 0.0136
+Size: 22000| BST Time: 0.00104 | Binary Search Time: 0.07845
+Size: 23000| BST Time: 0.0018 | Binary Search Time: 0.12641
+Size: 24000| BST Time: 0.00102 | Binary Search Time: 0.07339
+Size: 25000| BST Time: 0.00124 | Binary Search Time: 0.08796
+--- Added: 2026-11-11 23:38:43 ---
+
+
+Size: 1000| BST Time: 0.00026 | Binary Search Time: 0.00206
+Size: 2000| BST Time: 0.00052 | Binary Search Time: 0.00321
+Size: 3000| BST Time: 0.00048 | Binary Search Time: 0.0026
+Size: 4000| BST Time: 0.00115 | Binary Search Time: 0.00501
+Size: 5000| BST Time: 0.00074 | Binary Search Time: 0.00459
+Size: 6000| BST Time: 0.00076 | Binary Search Time: 0.00501
+Size: 7000| BST Time: 0.00081 | Binary Search Time: 0.00629
+Size: 8000| BST Time: 0.00042 | Binary Search Time: 0.00524
+Size: 9000| BST Time: 0.0009 | Binary Search Time: 0.00621
+Size: 10000| BST Time: 0.00075 | Binary Search Time: 0.01589
+Size: 11000| BST Time: 0.00051 | Binary Search Time: 0.00745
+Size: 12000| BST Time: 0.00047 | Binary Search Time: 0.00536
+Size: 13000| BST Time: 0.00048 | Binary Search Time: 0.00837
+Size: 14000| BST Time: 0.00121 | Binary Search Time: 0.00853
+Size: 15000| BST Time: 0.00073 | Binary Search Time: 0.00839
+Size: 16000| BST Time: 0.00076 | Binary Search Time: 0.00949
+Size: 17000| BST Time: 0.00072 | Binary Search Time: 0.00598
+Size: 18000| BST Time: 0.00064 | Binary Search Time: 0.01
+Size: 19000| BST Time: 0.00068 | Binary Search Time: 0.0109
+Size: 20000| BST Time: 0.00142 | Binary Search Time: 0.01478
+Size: 21000| BST Time: 0.00089 | Binary Search Time: 0.00934
+Size: 22000| BST Time: 0.00113 | Binary Search Time: 0.01351
+Size: 23000| BST Time: 0.00069 | Binary Search Time: 0.01299
+Size: 24000| BST Time: 0.00108 | Binary Search Time: 0.01371
+Size: 25000| BST Time: 0.00183 | Binary Search Time: 0.01947
+--- Added: 2026-11-11 23:39:17 ---
+
+
+Size: 1000| BST Time: 0.00069 | Binary Search Time: 0.00263
+Size: 2000| BST Time: 0.0004 | Binary Search Time: 0.0031
+Size: 3000| BST Time: 0.00092 | Binary Search Time: 0.00357
+Size: 4000| BST Time: 0.00044 | Binary Search Time: 0.00457
+Size: 5000| BST Time: 0.00078 | Binary Search Time: 0.00444
+Size: 6000| BST Time: 0.00124 | Binary Search Time: 0.00968
+Size: 7000| BST Time: 0.00072 | Binary Search Time: 0.00632
+Size: 8000| BST Time: 0.00083 | Binary Search Time: 0.00703
+Size: 9000| BST Time: 0.00095 | Binary Search Time: 0.00491
+Size: 10000| BST Time: 0.00072 | Binary Search Time: 0.00855
+Size: 11000| BST Time: 0.00103 | Binary Search Time: 0.01007
+Size: 12000| BST Time: 0.00072 | Binary Search Time: 0.04042
+Size: 13000| BST Time: 0.00086 | Binary Search Time: 0.00879
+Size: 14000| BST Time: 0.00073 | Binary Search Time: 0.03652
+Size: 15000| BST Time: 0.00105 | Binary Search Time: 0.04745
+Size: 16000| BST Time: 0.00108 | Binary Search Time: 0.06357
+Size: 17000| BST Time: 0.00105 | Binary Search Time: 0.05963
+Size: 18000| BST Time: 0.00093 | Binary Search Time: 0.05967
+Size: 19000| BST Time: 0.00067 | Binary Search Time: 0.05037
+Size: 20000| BST Time: 0.00057 | Binary Search Time: 0.08115
+Size: 21000| BST Time: 0.00185 | Binary Search Time: 0.08723
+Size: 22000| BST Time: 0.00119 | Binary Search Time: 0.07796
+Size: 23000| BST Time: 0.00136 | Binary Search Time: 0.01616
+Size: 24000| BST Time: 0.00134 | Binary Search Time: 0.01597
+Size: 25000| BST Time: 0.00123 | Binary Search Time: 0.0132
+--- Added: 2026-11-11 23:40:06 ---
+
+
+Size: 1000| BST Time: 0.0004 | Binary Search Time: 0.32465
+Size: 2000| BST Time: 0.00057 | Binary Search Time: 0.93577
+Size: 3000| BST Time: 0.00098 | Binary Search Time: 1.61546
+Size: 4000| BST Time: 0.00072 | Binary Search Time: 3.00703
+Size: 5000| BST Time: 0.00069 | Binary Search Time: 4.44529
+Size: 6000| BST Time: 0.00041 | Binary Search Time: 5.61016
+Size: 7000| BST Time: 0.00091 | Binary Search Time: 8.93896
+Size: 8000| BST Time: 0.00088 | Binary Search Time: 11.017
+Size: 9000| BST Time: 0.00095 | Binary Search Time: 14.5326
+Size: 10000| BST Time: 0.00069 | Binary Search Time: 15.8143
+Size: 11000| BST Time: 0.00098 | Binary Search Time: 17.6886
+Size: 12000| BST Time: 0.00069 | Binary Search Time: 22.4461
+Size: 13000| BST Time: 0.00134 | Binary Search Time: 25.7623
+Size: 14000| BST Time: 0.0009 | Binary Search Time: 29.4485
+Size: 15000| BST Time: 0.00079 | Binary Search Time: 34.109
+Size: 16000| BST Time: 0.00099 | Binary Search Time: 40.9702
+Size: 17000| BST Time: 0.00175 | Binary Search Time: 48.2635
+Size: 18000| BST Time: 0.00126 | Binary Search Time: 53.8926
+Size: 19000| BST Time: 0.00147 | Binary Search Time: 59.3487
+Size: 20000| BST Time: 0.00111 | Binary Search Time: 67.0541
+Size: 21000| BST Time: 0.00179 | Binary Search Time: 72.1199
+Size: 22000| BST Time: 0.00102 | Binary Search Time: 77.8207
+Size: 23000| BST Time: 0.00177 | Binary Search Time: 79.8241
+Size: 24000| BST Time: 0.00093 | Binary Search Time: 86.7687
+Size: 25000| BST Time: 0.0013 | Binary Search Time: 97.2644
+--- Added: 2026-11-11 23:41:18 ---
+
+
+
+
+
+Size: 1000| BST Time: 0.00028 | Binary Search Time: 2.12471
+Size: 2000| BST Time: 0.00035 | Binary Search Time: 8.42554
+Size: 3000| BST Time: 0.0004 | Binary Search Time: 18.0406
+Size: 4000| BST Time: 0.00038 | Binary Search Time: 29.5003
+Size: 5000| BST Time: 0.00043 | Binary Search Time: 46.7419
+Size: 6000| BST Time: 0.00034 | Binary Search Time: 66.5262
+Size: 7000| BST Time: 0.00033 | Binary Search Time: 91.8232
+Size: 8000| BST Time: 0.00039 | Binary Search Time: 116.787
+Size: 9000| BST Time: 0.00045 | Binary Search Time: 149.557
+Size: 10000| BST Time: 0.00038 | Binary Search Time: 183.603
+Size: 11000| BST Time: 0.00036 | Binary Search Time: 217.837
+Size: 12000| BST Time: 0.00045 | Binary Search Time: 260.187
+Size: 13000| BST Time: 0.00035 | Binary Search Time: 302.751
+Size: 14000| BST Time: 0.00042 | Binary Search Time: 353.127
+Size: 15000| BST Time: 0.00044 | Binary Search Time: 399.545
+Size: 16000| BST Time: 0.00047 | Binary Search Time: 458.211
+Size: 17000| BST Time: 0.00044 | Binary Search Time: 514.964
+Size: 18000| BST Time: 0.00046 | Binary Search Time: 586.326
+Size: 19000| BST Time: 0.00044 | Binary Search Time: 639.656
+Size: 20000| BST Time: 0.00049 | Binary Search Time: 719.632
+Size: 21000| BST Time: 0.00047 | Binary Search Time: 795.411
+Size: 22000| BST Time: 0.00039 | Binary Search Time: 866.275
+Size: 23000| BST Time: 0.00053 | Binary Search Time: 943.291
+Size: 24000| BST Time: 0.00038 | Binary Search Time: 1004.35
+Size: 25000| BST Time: 0.00047 | Binary Search Time: 1102.01
+--- Added: 2026-11-12 10:38:00 ---
+
+
+2.35829
+8.61574
+17.525
+30.9099
+48.8585
+68.7812
+95.3163
+121.452
+154.694
+227.024
+302.138
+379.296
+448.172
+503.815
+638.922
+714.282
+683.318
+814.884
+930.176
+1037.07
+1092.54
+1195.29
+1374.62
+1355.43
+1514.77
+--- Added: 2026-11-12 10:42:37 ---
+
+
+0.0003
+0.00029
+0.00039
+0.00038
+0.00037
+0.00039
+0.00038
+0.00046
+0.00041
+0.00042
+0.00043
+0.00042
+0.00041
+0.00049
+0.00042
+0.00048
+0.00049
+0.0006
+0.00068
+0.00056
+0.00055
+0.00053
+0.00055
+0.00055
+0.00068
+--- Added: 2026-11-12 11:09:50 ---
+
+
+0.00031
+0.00032
+0.00033
+0.00043
+0.00039
+0.00031
+0.00036
+0.0004
+0.00043
+0.00038
+0.00045
+0.00042
+0.00038
+0.00049
+0.00049
+0.00047
+0.00038
+0.00043
+0.00043
+0.0005
+0.00053
+0.0004
+0.00059
+0.00047
+0.00041
+--- Added: 2026-11-12 11:31:40 ---
+
+
+Size: 1000| BST Time: 0.00028 | Binary Search Time: 2.122
+Size: 2000| BST Time: 0.00035 | Binary Search Time: 8.03147
+Size: 3000| BST Time: 0.00031 | Binary Search Time: 17.8155
+Size: 4000| BST Time: 0.00038 | Binary Search Time: 31.4693
+Size: 5000| BST Time: 0.00031 | Binary Search Time: 48.0079
+Size: 6000| BST Time: 0.00044 | Binary Search Time: 68.747
+Size: 7000| BST Time: 0.0004 | Binary Search Time: 89.5767
+Size: 8000| BST Time: 0.00039 | Binary Search Time: 139.417
+Size: 9000| BST Time: 0.00041 | Binary Search Time: 185.976
+Size: 10000| BST Time: 0.00044 | Binary Search Time: 240.607
+Size: 11000| BST Time: 0.0005 | Binary Search Time: 286.446
+Size: 12000| BST Time: 0.00043 | Binary Search Time: 365.472
+Size: 13000| BST Time: 0.00047 | Binary Search Time: 425.702
+Size: 14000| BST Time: 0.0005 | Binary Search Time: 492.183
+Size: 15000| BST Time: 0.00049 | Binary Search Time: 565.865
+Size: 16000| BST Time: 0.00054 | Binary Search Time: 662.033
+Size: 17000| BST Time: 0.00063 | Binary Search Time: 768.633
+Size: 18000| BST Time: 0.00057 | Binary Search Time: 820.236
+Size: 19000| BST Time: 0.00061 | Binary Search Time: 950.741
+Size: 20000| BST Time: 0.00054 | Binary Search Time: 1027.76
+Size: 21000| BST Time: 0.0006 | Binary Search Time: 1148.21
+Size: 22000| BST Time: 0.00049 | Binary Search Time: 1108.93
+Size: 23000| BST Time: 0.00068 | Binary Search Time: 1386.29
+Size: 24000| BST Time: 0.00063 | Binary Search Time: 1353.14
+Size: 25000| BST Time: 0.00051 | Binary Search Time: 1660.72
+--- Added: 2026-11-12 11:34:29 ---
+
+
+0.00054
+0.00066
+0.01059
+0.00412
+0.00346
+0.00392
+0.00458
+0.00409
+0.00458
+0.00507
+0.00462
+0.00407
+0.00464
+0.00521
+0.00492
+0.00495
+0.00532
+0.00603
+0.00528
+0.00569
+0.00417
+0.00595
+0.00477
+0.0049
+0.00609
+--- Added: 2026-11-12 11:55:24 ---
+
+
+0.1194
+0.24846
+0.40277
+0.53962
+0.70756
+0.79016
+0.96063
+1.03684
+1.24288
+1.28206
+1.35341
+1.68734
+1.52082
+1.93035
+1.77523
+1.781
+2.3271
+2.21628
+2.17174
+2.44476
+2.42851
+2.82899
+2.87182
+3.46492
+3.18677
+--- Added: 2026-11-12 11:58:23 ---
+
+
+0.00053
+0.00069
+0.00124
+0.00239
+0.00333
+0.00314
+0.00421
+0.00479
+0.004
+0.00458
+0.00446
+0.00412
+0.00457
+0.00435
+0.00484
+0.0044
+0.00462
+0.00486
+0.00535
+0.00563
+0.00429
+0.00529
+0.00518
+0.00503
+0.00513
+--- Added: 2026-11-12 12:01:58 ---
+
+
+0.0006
+0.00082
+0.00165
+0.00246
+0.00203
+0.00434
+0.00365
+0.00426
+0.00412
+0.00463
+0.00471
+0.00482
+0.00447
+0.0046
+0.00449
+0.00481
+0.00525
+0.00436
+0.00566
+0.00473
+0.00504
+0.00514
+0.00477
+0.00549
+0.00464
+--- Added: 2026-11-12 12:06:14 ---
+
+
